@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.64f50d30.chunk.css",
+    "main.js": "./static/js/main.7afbe4a0.chunk.js",
+    "main.js.map": "./static/js/main.7afbe4a0.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.ce4b53e3.js",
+    "runtime-main.js.map": "./static/js/runtime-main.ce4b53e3.js.map",
+    "static/js/2.ee7d3ba2.chunk.js": "./static/js/2.ee7d3ba2.chunk.js",
+    "static/js/2.ee7d3ba2.chunk.js.map": "./static/js/2.ee7d3ba2.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.fd4b43d2f26e12f7adb4a1558744661c.js": "./precache-manifest.fd4b43d2f26e12f7adb4a1558744661c.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.64f50d30.chunk.css.map": "./static/css/main.64f50d30.chunk.css.map",
+    "static/js/2.ee7d3ba2.chunk.js.LICENSE.txt": "./static/js/2.ee7d3ba2.chunk.js.LICENSE.txt",
+    "static/media/arrow-left-right.svg": "./static/media/arrow-left-right.0035599f.svg",
+    "static/media/envelope-open-fill.svg": "./static/media/envelope-open-fill.836513b4.svg",
+    "static/media/heart-fill.svg": "./static/media/heart-fill.855f8ec1.svg",
+    "static/media/pen.svg": "./static/media/pen.5539fb85.svg",
+    "static/media/trash-fill.svg": "./static/media/trash-fill.e1e98fe7.svg",
+    "static/media/x.svg": "./static/media/x.a7510c15.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce4b53e3.js",
+    "static/js/2.ee7d3ba2.chunk.js",
+    "static/css/main.64f50d30.chunk.css",
+    "static/js/main.7afbe4a0.chunk.js"
+  ]
+}
